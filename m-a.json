@@ -1,0 +1,11 @@
+{
+    "endpoint": {
+        "url": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21oZEdITjk1Ni9tb3VzZS1hcHAvcmVmcy9oZWFkcy9tYWluL2RhdGEudHh0",
+        "type": "host"
+    },
+    "connections": [
+        "aHR0cDovL3dvcnN0Y2hhbXBpb24ubWlnaHR5ZW5naW5lLnNpdGUvYXBw",
+        "aHR0cDovL3dvcnN0Y2hhbXBpb24ubWlnaHR5ZW5naW5lLnNpdGUvYXBw",
+        "aHR0cDovL3dvcnN0Y2hhbXBpb24ubWlnaHR5ZW5naW5lLnNpdGUvYXBw"
+    ]
+}
